@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9786c5b791a1c8a4f8113df701c0e761, type: 3}
+  m_Name: LevelsStaticData
+  m_EditorClassIdentifier: 
+  LevelConfigs:
+  - _inspectorName: Level1
+    <LevelId>k__BackingField: 1
+    <TowerHeight>k__BackingField: 555
+    <TowerPrefab>k__BackingField: {fileID: 5264482801879951108, guid: fee4302b739a8c147879031a24e40bee, type: 3}
+    <Platforms>k__BackingField:
+    - {fileID: 253215726077378065, guid: 1355d813165743346b38075153f2890f, type: 3}
+    - {fileID: 253215726077378065, guid: 9b63913f0e9c0a04aafee845e2f4155e, type: 3}
+    - {fileID: 253215726077378065, guid: 49e7c6c76607ec644aaae24349048693, type: 3}
+  - _inspectorName: Level2
+    <LevelId>k__BackingField: 2
+    <TowerHeight>k__BackingField: 555
+    <TowerPrefab>k__BackingField: {fileID: 5264482801879951108, guid: a94993f4655ff4f4bb315f5fbf53aed8, type: 3}
+    <Platforms>k__BackingField:
+    - {fileID: 253215726077378065, guid: 1355d813165743346b38075153f2890f, type: 3}
+    - {fileID: 253215726077378065, guid: 9b63913f0e9c0a04aafee845e2f4155e, type: 3}
+    - {fileID: 253215726077378065, guid: 49e7c6c76607ec644aaae24349048693, type: 3}
